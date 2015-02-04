@@ -49,7 +49,7 @@ The above code should load the current weather conditions for Seattle, WA. You s
 
 **Dynamic Model**
 
-Add an ng-location parameter in the `<weather>` directive that can be bount do a scope variable. Test this by creating a text box where the user can enter a location and have the weather update dynamically.
+Add an ng-location parameter in the `<weather>` directive that can be bound to a scope variable. Test this by creating a text box where the user can enter a location and have the weather update dynamically.
 
 **GPS**
 
